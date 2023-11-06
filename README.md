@@ -6,7 +6,7 @@
 
 > ..psst! While Bower is maintained, we recommend [yarn](https://yarnpkg.com/) and [webpack](https://webpack.js.org/) or [parcel](https://parceljs.org/) for new front-end projects!
 
-<img align="right" height="300" src="http://bower.io/img/bower-logo.png">
+[<img align="right" height="300" src="http://bower.io/img/bower-logo.png">](http://bower.io){:target="_blank"}
 
 ---
 
